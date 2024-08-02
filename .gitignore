@@ -1,0 +1,7 @@
+/RestServer/.idea
+/RestServer/.mvn
+/RestServer/target
+/RestServer/RestServer.iml
+
+/sensorConsumer/.idea
+/sensorConsumer/target
